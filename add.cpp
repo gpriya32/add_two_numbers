@@ -3,6 +3,9 @@ using namespace std;
 
 int main(){
 	int a,b;
-sum = a+b;
+	scanf("%d %d",&a,&b);
+	
+int sum = a+b;
+cout<<sum;
 	return 0;
 }
